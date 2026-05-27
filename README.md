@@ -39,33 +39,19 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 BRK224: PepsiCo's blueprint for agentic AI
 
 ### Session Description
 
-*Add Session Description*
-
-### 🏫 Getting started in a guided session
-
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
-
-If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
+Learn from Microsoft and PepsiCo engineers who modernized PepsiCo's data foundation for agentic applications using Azure SQL, Cosmos DB, PostgreSQL, and Azure Databricks. Discover a practical build path for agentic RAG architecture, leveraging Azure SQL features like vector indexing and semantic search, to streamline app development and enable faster, repeatable patterns. Refresh your own data layer to reduce app development cycles while leveraging modern, repeatable patterns to ship faster.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Design an enterprise data foundation for agentic AI using Azure Databricks, Azure Cosmos DB, and Azure SQL.
+- Apply Azure SQL capabilities, including vector indexing and semantic search, to implement practical RAG patterns for AI agents.
+- Build and operationalize AI agent workflows with Microsoft Foundry by connecting agents to modern data platforms for repeatable delivery.
 
 ### 💬 Keep Learning with Copilot
 
@@ -73,20 +59,34 @@ Try these prompts with GitHub Copilot to explore the topics from this session. O
 
 Use these as a starting point — or write your own!
 
-<!-- Prompts will be tailored to this session's content during repo setup. -->
-
-> *Prompts coming soon — check back after the session content is finalized.*
+- "Design a reference architecture for an agentic RAG solution using Azure Databricks, Azure Cosmos DB, and Azure SQL. Explain why each service is used."
+- "Show me an Azure SQL example for vector indexing and semantic search, and explain how it improves retrieval quality for AI agents."
+- "Compare when to store data in Azure Cosmos DB versus Azure SQL for an AI agent application that needs transactional data and knowledge retrieval."
+- "Create a step-by-step plan to operationalize an AI agent in Microsoft Foundry, including evaluation, monitoring, and iteration."
+- "Generate an end-to-end sample workflow where an AI agent uses Azure SQL for retrieval and Cosmos DB for operational state."
+- "List common anti-patterns in enterprise agentic AI data architectures and how to avoid them using Databricks, Cosmos DB, Azure SQL, and Foundry."
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. Azure Databricks
+1. Azure Cosmos DB
+1. Azure SQL
+1. Microsoft Foundry
+1. AI Agents
 
 ### 📚 Resources and Next Steps
 
+The source code for the customer application is not publicly available, per the customer's IP requirements. Use the following resources to learn more:
+
 | Resource | Description |
 |:---------|:------------|
+| [Budget Bytes Samples](https://github.com/Azure-Samples/budget-bytes-samples) | Sample application patterns for Azure SQL and related data architecture concepts. |
+| [Azure SQL DB Vector Search](https://github.com/Azure-Samples/azure-sql-db-vector-search) | End-to-end samples for vector search patterns in Azure SQL and SQL Server. |
+| [Cosmos DB RAG Chat (ACA)](https://github.com/Azure-Samples/cosmos-db-rag-chat-aca) | Containerized RAG chat sample using Azure Cosmos DB hybrid vector search. |
+| [Azure SQL + Databricks Samples](https://github.com/Azure-Samples/azure-sql-db-databricks) | Integration samples and best practices for Azure SQL and Azure Databricks. |
+| [Get Started with AI Agents](https://github.com/Azure-Samples/get-started-with-ai-agents) | Foundational Azure AI Foundry agent sample for building and deploying agent apps. |
+| [AI Foundry Agents Samples](https://github.com/Azure-Samples/ai-foundry-agents-samples) | Focused code samples for Azure AI Foundry agent development patterns. |
+| [Foundry Hosted Agent Framework Demos](https://github.com/Azure-Samples/foundry-hosted-agentframework-demos) | Practical demos for deploying Agent Framework solutions to Foundry Hosted Agents. |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 
