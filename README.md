@@ -12,6 +12,20 @@
 
 Learn from Microsoft and PepsiCo engineers who modernized PepsiCo's data foundation for agentic applications using Azure SQL, Cosmos DB, PostgreSQL, and Azure Databricks. Discover a practical build path for agentic RAG architecture, leveraging Azure SQL features like vector indexing and semantic search, to streamline app development and enable faster, repeatable patterns. Refresh your own data layer to reduce app development cycles while leveraging modern, repeatable patterns to ship faster.
 
+### 🚀 Getting started
+
+This repository shares architecture guidance and learning resources from the BRK224 session. Customer implementation source code is not publicly available.
+
+To continue learning:
+
+1. Review the **Session Description** and **Learning Outcomes** to understand the target architecture and patterns.
+1. Work through the **Resources and Next Steps** links, starting with **Budget Bytes Samples** and **Azure SQL DB Vector Search**.
+1. Recreate key patterns in your own environment:
+    - Vector indexing and semantic search in Azure SQL
+    - RAG with Azure Cosmos DB
+    - Agent workflows with Microsoft Foundry
+1. Use the **Keep Learning with Copilot** prompts to generate a tailored implementation plan for your organization.
+
 ### 🧠 Learning Outcomes
 
 By the end of this session, you will be able to:
@@ -83,6 +97,13 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
             <a href="mailto:bobward@microsoft.com" title="email">bobward@microsoft.com</a>
     </td>
 </tr></table>
+
+### 🙌 Closing note
+
+Thanks for joining BRK224 at Microsoft Build 2026.
+While customer implementation code is not publicly shared, the architecture patterns and resources in this repository are intended to help you apply the same approach in your own environment.
+
+If this was helpful, bookmark this repository and revisit the **Resources and Next Steps** section as new samples and guidance are published.
 
 ## Contributing
 
