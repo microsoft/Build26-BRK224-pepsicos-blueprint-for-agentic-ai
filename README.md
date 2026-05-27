@@ -108,17 +108,12 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="https://github.com/rgward">
+        <img src="https://github.com/rgward.png" width="100px;" alt="Bob Ward"/><br />
+        <sub><b>Bob Ward</b></sub></a><br />
+            <a href="mailto:bobward@microsoft.com" title="email">bobward@microsoft.com</a>
     </td>
 </tr></table>
 
